@@ -120,7 +120,8 @@ pip install -r requirements.txt
 
 3. Run the notebook or script
 ```bash
-python main.py
+python preprocessing.py
+python model_training.py
 ```
 
 ---
