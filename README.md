@@ -120,8 +120,8 @@ pip install -r requirements.txt
 
 3. Run the notebook or script
 ```bash
-python preprocessing.py
-python model_training.py
+python preprocessing.ipynb
+python model_training.ipynb 
 ```
 
 ---
